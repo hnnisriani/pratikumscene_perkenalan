@@ -33,3 +33,10 @@ WebXR umumnya membutuhkan secure context untuk mengakses fitur XR yang didukung 
 3. Jelaskan perbedaan peran WebXR Device API, three.js, dan A-Frame.
 
 WebXR Device API menyediakan antarmuka untuk mengakses kemampuan VR dan AR yang didukung perangkat. Three.js digunakan untuk membuat grafis 3D, sedangkan A-Frame memudahkan pembuatan scene 3D melalui elemen HTML seperti a-scene, a-box, dan a-text.
+
+
+## Fitur Scene
+- Menampilkan tiga objek primitif berbeda.
+- Menggunakan lantai dan langit.
+- Menampilkan nama dan NIM mahasiswa.
+- Memiliki objek cincin dengan animasi rotasi.
